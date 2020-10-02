@@ -1,0 +1,24 @@
+body {
+	background-color: mediumvioletred;
+
+}
+h1 {
+  border: 5px solid red;
+}
+img {
+  border: 5px solid black;
+}
+
+img {
+  float: left;
+  border-style: solid;
+}
+
+img:nth-of-type(2) {
+  float: right;
+border-style: solid;
+}
+img:nth-of-type(3) {
+  float: left;
+  border-style: solid;
+}
