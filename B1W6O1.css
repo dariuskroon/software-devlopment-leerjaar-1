@@ -1,0 +1,28 @@
+h4{
+    background-color: #def6ed;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    }
+h2{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:normal;
+}
+
+div {
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+h1{
+    font-size: 36px;
+    border-bottom: 1px solid black;
+
+}
+h3{ 
+    font-size: 32px; }
+    
